@@ -1,0 +1,4 @@
+name: BoostPad
+version: '${project.version}'
+main: _.boostpad.BoostPad
+api-version: '1.20'
